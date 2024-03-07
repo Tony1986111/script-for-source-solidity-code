@@ -1,0 +1,1 @@
+# script-for-source-solidity-code
